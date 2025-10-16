@@ -1,0 +1,2 @@
+Menambahkan file6.txt
+Melakukan perubahan file6.txt
